@@ -23,7 +23,7 @@ Challenge: Needed to sum the total awards for each year.
 
 Solution: Utilized Python to group the data by year and calculate the sum of awards for each year.
 
-_Data Visualizatio_
+_Data Visualization_
 Challenge: Wanted to create a dynamic, animated line chart to better visualize the data WITH audio.
 
 Solution: Used Matplotlib for plotting and its animation function to create the dynamic chart. Integrated MoviePy to add audio to the animation, providing a more engaging 
